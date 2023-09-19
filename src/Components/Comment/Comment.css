@@ -1,0 +1,7 @@
+.comment-container{
+    border: 2px solid red;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    /* text-align: center; */
+}
